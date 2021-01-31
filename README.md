@@ -1,3 +1,11 @@
+# Intro to this fork
+This is a forked version of fastai's NLP course (see link below).
+
+- `master` branch is kept in sync with fastai
+- `walk-thru` branch  includes my notes and practice.
+
+Text below is the original fastai README.
+
 # A Code-First Intro to Natural Language Processing
 
 You can find out about the course in [this blog post](https://www.fast.ai/2019/07/08/fastai-nlp/) and all [lecture videos are available here](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9).
